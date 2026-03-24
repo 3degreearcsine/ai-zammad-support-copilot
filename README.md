@@ -32,11 +32,11 @@ Zammad → Webhook → Python (Flask) → AI → Zammad (update ticket)
 
 ### 1. Clone repo
 
-git clone https://github.com/your-username/ai-support-copilot.git
-cd ai-support-copilot
+git clone https://github.com/3degreearcsine/ai-zammad-support-copilot.git<br>
+cd ai-zammad-support-copilot
 
 ### 2. Create virtual environment
-python -m venv venv
+python -m venv venv<br>
 venv\Scripts\activate
 
 ### 3. Install dependencies
