@@ -63,7 +63,7 @@ ngrok http 5000
 
 ## 🧪 Demo
 
-https://1drv.ms/v/c/051012c4ebbbe739/IQDhSd5rNo_UT7Fy0LCLZCeUAdadejapMNKIGQ-ZYjIgO0s?e=xHILhZ
+[agentic-automation-demo-compressed.mp4](https://github.com/3degreearcsine/ai-zammad-support-copilot/blob/e83c7226bc54bc41e39eb34c8856d93d571e188b/agentic-automation-demo-compressed.mp4)
 
 ---
 
