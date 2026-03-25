@@ -79,8 +79,8 @@ Debug Steps:
 
 ## 🔮 Future Improvements
 
-Auto priority update
-Tagging (API / DB / Auth issues)
-Markdown-based workflow
+Auto priority update<br>
+Tagging (API / DB / Auth issues)<br>
+Markdown-based workflow<br>
 
 ---

@@ -13,9 +13,17 @@ def handle_webhook():
         ticket_id = ticket.get("id")
         title = ticket.get("title")
 
+        # extract description
+        article = data.get("article", {})
+        description = article.get("body", "")
+
+        # debug prints
+        print("TITLE:", title)
+        print("DESCRIPTION:", description)
+
         print(f"Received ticket {ticket_id}: {title}")
 
-        analysis = analyze_ticket(title)
+        analysis = analyze_ticket(title, description)
 
         note = f"""
         🤖🧠 AI Analysis (Auto-triggered):
